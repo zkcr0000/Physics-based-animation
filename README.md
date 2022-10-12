@@ -3,7 +3,7 @@
 
 # Overview
 
-These are the course projects implemented by C# in the Unity engine. **The simulations are all done by C# script** without using build-in physics engine of Unity. 
+These are the course projects for physics based animation implemented with C# in the Unity engine. **The simulations are all done by C# script** without using build-in physics engine of Unity. 
 
 
 
